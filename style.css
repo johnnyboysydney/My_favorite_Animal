@@ -1,0 +1,55 @@
+body {
+    background-color: #428bca
+}
+
+h1 {
+    font-size: 36px;
+    color: white;
+}
+
+p,
+h1,
+h2,
+h4 {
+    font-family: 'Roboto Slab', serif;
+}
+
+p {
+    font-size: 24px;
+}
+
+#funText {
+    color: black;
+    font-size: 24px;
+    font-family: 'Roboto Slab', serif;
+    text-align: justify;
+}
+
+#box {
+    /*height: 100px;*/
+    width: 1180px;
+    margin: auto;
+    text-align: justify;
+    
+}
+main {
+    display: flex;
+    justify-content: center;
+    background-color: #428bca;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+img {
+    
+}
+
+footer {
+    text-align: center;
+    
+}
+
+ul {
+    
+}
